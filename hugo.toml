@@ -1,0 +1,12 @@
+baseURL = 'https://www.joke.dad/'
+languageCode = 'en-us'
+title = 'joke.dad'
+theme = "coming-soon"
+
+[params]
+    title = "AI-Free, Authentic, 100% Verified Dad Jokes." 
+    description = ""
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "" 
+    background = "" 
