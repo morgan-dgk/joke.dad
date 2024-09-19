@@ -4,7 +4,7 @@ title = 'joke.dad'
 theme = "coming-soon"
 
 [params]
-    title = "AI-Free, Authentic, 100% Verified Dad Jokes." 
+    title = "joke.dad" 
     description = ""
     favicon = ""
     message = "COMING SOON!" 
